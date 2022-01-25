@@ -1,0 +1,51 @@
+<style>
+
+/*for body*/
+
+body {
+  font-family: system-ui;
+  text-align: left;
+}
+h1 {
+	font-family: arial;
+	color: green
+}
+.jan tbody
+{
+    background: blueviolet;
+    color: pink;
+    padding: 10px;
+}
+.jan td
+{
+    padding: 5px;
+    width: 20%;
+}
+.jan tr
+{
+    height: 100px;
+}
+
+/*.tableCss            
+{
+    border: solid 1px #e6e5e5;
+}
+for header
+.tableCss thead
+{
+    background-color: #0094ff;
+    color:#fff;
+    padding: 10px;
+    text-align:center;
+}
+
+for footer
+.tabTask tfoot
+{
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+}
+*/
+
+</style>
